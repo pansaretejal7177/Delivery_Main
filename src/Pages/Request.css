@@ -1,0 +1,7 @@
+.req{
+    display: flex;
+    justify-content: space-evenly;
+}
+.count {
+    background-color: rgb(247, 243, 243);
+}
